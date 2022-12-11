@@ -15,6 +15,7 @@ wincertstore==0.2
 xgboost==1.6.2
 pandas
 PyYAML
+apache-airflow
 numpy
 scikit-learn
 -e .
